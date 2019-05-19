@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">getting_and_plotting_gps</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
